@@ -5,6 +5,5 @@ public class HelloWorld {
 		System.out.println("Hello Git!");
 		System.out.println("pull to github first!");
 		System.out.println("pull to github second!");
-		System.out.println("pull to github third!");
 	}
 }
